@@ -22,7 +22,8 @@ from urllib.request import urlopen
 
 ## 사용 API
 
-![Discord]([https://file.thisisgame.com/upload/nboard/news/2018/08/10/20180810170552_4334.jpg])
+![discord](https://github.com/xxrainow/The_most_efficient_travel_helper/assets/90715224/c9d98c21-4864-4110-aff9-7c7c9a9b0765)
+
 
 Discord Bot API를 이용하여 웹에서 환율 정보를 크롤링해서 받아온 정보를 디코에서 바로 받아볼 수 있게 하는 봇을 개발함.
 
@@ -47,7 +48,7 @@ url = "https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=
 
 ## 소개
 <img width="377" alt="시작" src="https://github.com/xxrainow/The_most_efficient_travel_helper/assets/90715224/2d89f09e-fbe4-4ce8-9680-50bc85690b88">
-<br>
+
 
 ## 기능
 
@@ -60,19 +61,19 @@ url = "https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=
 ### !환율_나라명
 입력한 나라의 환율 정보와 사이트를 현재 시간과 함께 볼 수 있습니다.
 
-<img width="431" alt="호주" src="https://github.com/xxrainow/The_most_efficient_travel_helper/assets/90715224/22f459e5-5b98-4f7d-9e11-fc126660d5f0"><br>
+<img width="431" alt="호주" src="https://github.com/xxrainow/The_most_efficient_travel_helper/assets/90715224/22f459e5-5b98-4f7d-9e11-fc126660d5f0">
 <img width="454" alt="환율_스위스" src="https://github.com/xxrainow/The_most_efficient_travel_helper/assets/90715224/c88d257b-805c-40b5-9ad8-729dbfe253de">
 
 
 
-<br>
+
 ## 참고
 
 디스코드 봇 생성하기 : https://youtu.be/mw0Zmcg8V44?si=euYo10InQNKhcnZ9
 
 디스코드 임베드 적용 방법 : [Discord Embed Creator (dan.onl)](https://embed.dan.onl/)
 
-Beautifulsoup 사용 방법, 함수 사용 방법 : 
+Beautifulsoup 사용 방법, 함수 사용 방법 : https://wikidocs.net/85739
 
 
 
