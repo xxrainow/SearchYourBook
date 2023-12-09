@@ -2,7 +2,10 @@
 
 ## 개요
 ### 목적
-방학이 다가오고 여행에 대한 관심이 높아진 사람들에게 도움이 될 만한 것들이 무엇이 있을지 생각하다가 환율 정보를 바로 볼 수 있는 디코봇을 만들면 좋겠다고 생각했다
+여행계획을 수립할 때 항상 고려하게 되는 환율에 대해 사람들이 편하게 접근할 수 있는 디스코드 봇을 제작하였음. <br>
+다른 국가로 여행할 때 현지 통화의 환율을 알면 예산을 계획하고 여행 경비를 적절하게 관리할 수 있음.
+
+
 
 ## **Prerequisites**
 
@@ -65,7 +68,7 @@ url = "https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=
 ### !환율_나라명
 입력한 나라의 환율 정보와 사이트를 현재 시간과 함께 볼 수 있습니다.
 
-<img width="431" alt="호주" src="https://github.com/xxrainow/The_most_efficient_travel_helper/assets/90715224/22f459e5-5b98-4f7d-9e11-fc126660d5f0">
+<img width="431" alt="호주" src="https://github.com/xxrainow/The_most_efficient_travel_helper/assets/90715224/22f459e5-5b98-4f7d-9e11-fc126660d5f0"><br>
 <img width="454" alt="환율_스위스" src="https://github.com/xxrainow/The_most_efficient_travel_helper/assets/90715224/c88d257b-805c-40b5-9ad8-729dbfe253de">
 
 
