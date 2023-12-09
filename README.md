@@ -20,7 +20,7 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 ```
 
-### 사용 API
+## 사용 API
 
 ![Untitled]([https://file.thisisgame.com/upload/nboard/news/2018/08/10/20180810170552_4334.jpg])
 
