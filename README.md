@@ -43,12 +43,12 @@ url = "https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=
  contents = BeautifulSoup(page, "html.parser")
  exchanges = contents.find("p", class_="no_today")
 ```
-https://upload.wikimedia.org/wikipedia/ko/thumb/6/62/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C_%EB%A1%9C%EA%B3%A0.svg/1013px-%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C_%EB%A1%9C%EA%B3%A0.svg.png?20210524072931
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8e2df0eb-1ad3-4acb-a162-511b7b9230ed/924689ca-cab2-4ce6-9eee-a85f123cf5e9/Untitled.png)
+
 
 ## 소개
+<img width="377" alt="시작" src="https:<img width="377" alt="시작" src="https://github.com/xxrainow/The_most_efficient_travel_helper/assets/90715224/59828c8a-e116-4887-9e76-c93e832a3d94">
+//github.com/xxrainow/The_most_efficient_travel_helper/assets/90715224/4098d3f1-b0f4-4b63-ad00-57e43c2cae15">
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8e2df0eb-1ad3-4acb-a162-511b7b9230ed/130ae965-b31d-443a-98fe-9e9fa8071035/Untitled.png)
 
 ## 기능
 
@@ -62,7 +62,7 @@ https://upload.wikimedia.org/wikipedia/ko/thumb/6/62/%EB%94%94%EC%8A%A4%EC%BD%94
 
 입력한 나라의 환율 정보와 사이트를 현재 시간과 함께 볼 수 있습니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8e2df0eb-1ad3-4acb-a162-511b7b9230ed/14567ebd-e4cc-4916-9179-a95904d16c1a/Untitled.png)
+
 
 ## 참고
 
@@ -71,3 +71,8 @@ https://upload.wikimedia.org/wikipedia/ko/thumb/6/62/%EB%94%94%EC%8A%A4%EC%BD%94
 디스코드 임베드 적용 방법 : [Discord Embed Creator (dan.onl)](https://embed.dan.onl/)
 
 Beautifulsoup 사용 방법, 함수 사용 방법 :
+
+
+
+
+
