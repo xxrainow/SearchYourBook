@@ -22,7 +22,7 @@ from urllib.request import urlopen
 
 ## 사용 API
 
-![Untitled]([https://file.thisisgame.com/upload/nboard/news/2018/08/10/20180810170552_4334.jpg])
+![Discord]([(https://upload.wikimedia.org/wikipedia/ko/thumb/6/62/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C_%EB%A1%9C%EA%B3%A0.svg/1013px-%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C_%EB%A1%9C%EA%B3%A0.svg.png?20210524072931)])
 
 Discord Bot API를 이용하여 웹에서 환율 정보를 크롤링해서 받아온 정보를 디코에서 바로 받아볼 수 있게 하는 봇을 개발함.
 
@@ -43,7 +43,7 @@ url = "https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=
  contents = BeautifulSoup(page, "html.parser")
  exchanges = contents.find("p", class_="no_today")
 ```
-
+https://upload.wikimedia.org/wikipedia/ko/thumb/6/62/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C_%EB%A1%9C%EA%B3%A0.svg/1013px-%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C_%EB%A1%9C%EA%B3%A0.svg.png?20210524072931
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8e2df0eb-1ad3-4acb-a162-511b7b9230ed/924689ca-cab2-4ce6-9eee-a85f123cf5e9/Untitled.png)
 
 ## 소개
@@ -56,7 +56,7 @@ url = "https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=
 
 환율 정보를 확인할 수 있는 나라들을 전부 볼 수 있습니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8e2df0eb-1ad3-4acb-a162-511b7b9230ed/b8bab029-4c3b-417d-b256-98d8b4855e50/Untitled.png)
+
 
 ### !환율_나라명
 
