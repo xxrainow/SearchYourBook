@@ -71,10 +71,13 @@ url = "https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=
 <img width="431" alt="호주" src="https://github.com/xxrainow/The_most_efficient_travel_helper/assets/90715224/22f459e5-5b98-4f7d-9e11-fc126660d5f0"><br>
 <img width="454" alt="환율_스위스" src="https://github.com/xxrainow/The_most_efficient_travel_helper/assets/90715224/c88d257b-805c-40b5-9ad8-729dbfe253de">
 
-## Heroku 서버 호스팅
+## 구글 클라우드 플랫폼 서버 호스팅
+https://discord.com/oauth2/authorize?client_id=1182629873886437460&scope=bot
+이 링크로 들어가면 환율정보알림봇을 바로 사용하실 수 있습니다.
+(토큰에 대한 정보는 노출되어 있지 않습니다.)
 
 
-## 참고
+## Reference
 
 디스코드 봇 생성하기 : https://youtu.be/mw0Zmcg8V44?si=euYo10InQNKhcnZ9
 
@@ -82,7 +85,9 @@ url = "https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=
 
 Beautifulsoup 사용 방법, 함수 사용 방법 : https://wikidocs.net/85739
 
-HEROKU 서버 호스팅 : https://lektion-von-erfolglosigkeit.tistory.com/97
+구글 클라우드 플랫폼 서버 호스팅 : https://blog.naver.com/dnsjdbstlr/222289626549
+
+Chat GPT
 
 
 
