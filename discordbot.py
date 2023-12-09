@@ -524,4 +524,4 @@ async def 환율_필리핀(ctx):
     await ctx.send(embed=embed)
 
 
-bot.run("")
+bot.run("MTE4MjYyOTg3Mzg4NjQzNzQ2MA.GS1IGz.C5Q28lp17CM3v7rutjx5NGAfRYasAKCXVT64Co")
