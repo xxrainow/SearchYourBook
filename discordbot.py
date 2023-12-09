@@ -523,5 +523,7 @@ async def 환율_필리핀(ctx):
     embed.set_footer(text="환율정보 알림봇")
     await ctx.send(embed=embed)
 
-
-bot.run("MTE4MjYyOTg3Mzg4NjQzNzQ2MA.G5rjwQ.sHXDQfosXC7z1X2djLnfeW42n5QuLs_8njiN_M")
+with open('bot_token.txt', 'r') as file:
+    TOKEN = file.read().strip()
+    
+bot.run(TOKEN)
