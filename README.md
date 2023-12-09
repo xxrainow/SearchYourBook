@@ -22,7 +22,7 @@ from urllib.request import urlopen
 
 ### 사용 API
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8e2df0eb-1ad3-4acb-a162-511b7b9230ed/8c4daced-e2b1-4a81-84da-f2f35787b46f/Untitled.png)
+![Untitled]([https://file.thisisgame.com/upload/nboard/news/2018/08/10/20180810170552_4334.jpg])
 
 Discord Bot API를 이용하여 웹에서 환율 정보를 크롤링해서 받아온 정보를 디코에서 바로 받아볼 수 있게 하는 봇을 개발함.
 
