@@ -39,7 +39,7 @@ Discord Bot API를 이용하여 웹에서 환율 정보를 크롤링해서 받�
 
 https://finance.naver.com/marketindex/
 
-네이버 금융 증권 사이트에서 각 나라별 환율을 크롤링함
+네이버 웹상의 환율 정보를 가져오기 위해 BeautifulSoup, bs4 오픈소스를 이용하여 네이버 금융 증권 사이트에서 각 나라별 환율을 크롤링하여 가져옴.
 
 ### 파싱
 
@@ -74,10 +74,20 @@ url = "https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=
 
 <br>
 
-## 구글 클라우드 플랫폼 서버 호스팅
+## 배포 준비
+*구글 클라우드 플랫폼 서버*를 이용하여 호스팅 하였습니다.
 https://discord.com/oauth2/authorize?client_id=1182629873886437460&scope=bot <br>
 이 링크로 들어가면 환율정보알림봇을 바로 사용하실 수 있습니다.<br>
 (토큰에 대한 정보는 노출되어 있지 않습니다.)
+
+- 서버 주인만 봇을 초대할 수 있습니다
+- 디스코드에서 서버를 신규 생성한 후, 링크에 접속하여 봇을 초대해주세요.
+- 기존에 참가하고 있는 서버의 주인이라면 해당 서버에 초대하는 것도 가능합니다.
+
+<img width="293" alt="image" src="https://github.com/xxrainow/get-exchange-bot/assets/90715224/e2ceb9fd-7281-4f07-9f9f-97d406dd831c">
+
+- 서버를 선택하고 승인 버튼을 누르면 봇이 서버에 초대됩니다.
+
 
 <br>
 
