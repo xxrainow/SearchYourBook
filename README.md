@@ -76,6 +76,7 @@ url = "https://finance.naver.com/marketindex/exchangeDetail.naver?marketindexCd=
 
 ## 배포 준비
 *구글 클라우드 플랫폼 서버*를 이용하여 호스팅 하였습니다.
+<br>
 https://discord.com/oauth2/authorize?client_id=1182629873886437460&scope=bot <br>
 이 링크로 들어가면 환율정보알림봇을 바로 사용하실 수 있습니다.<br>
 (토큰에 대한 정보는 노출되어 있지 않습니다.)
